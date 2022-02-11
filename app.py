@@ -5,6 +5,7 @@ import numpy as np
 import cv2
 import os
 import plotly.express as px
+import wget
 
 st.set_page_config(layout="wide", page_title="Emotion in Motion", initial_sidebar_state="expanded")
 
